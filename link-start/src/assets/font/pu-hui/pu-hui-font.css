@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-45-Light.ttf");
+    font-weight: 300; /* Light */
+}
+
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-55-Regular.ttf");
+    font-weight: 400; /* Regular */
+}
+
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-65-Medium.ttf");
+    font-weight: 500; /* Medium */
+}
+
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-75-SemiBold.ttf");
+    font-weight: 600; /* SemiBold */
+}
+
+
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-85-Bold.ttf");
+    font-weight: 700; /* Bold */
+}
+
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-105-Heavy.ttf");
+    font-weight: 900; /* Heavy */
+}
+
+@font-face {
+    font-family: "Pu Hui";
+    font-display: block;
+    src: url("./AlibabaPuHuiTi-2-115-Black.ttf");
+    font-weight: 1000; /* Black */
+}

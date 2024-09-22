@@ -1,0 +1,17 @@
+.idea
+
+node_modules
+
+dist
+
+coverage
+
+*.log
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+__pycache__
