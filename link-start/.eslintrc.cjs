@@ -102,7 +102,6 @@ module.exports = {
             },
         ],
         // override/add rules settings here, such as:
-        // 'vue/no-unused-vars': 'error',
         "vue/script-indent": [
             "off",
             4,
@@ -125,7 +124,7 @@ module.exports = {
             },
         ],
         "vue/no-unused-vars": [
-            "error",
+            "warn",
             {
                 ignorePattern: "^_",
             },
