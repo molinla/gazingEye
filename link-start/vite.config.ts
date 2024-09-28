@@ -8,7 +8,7 @@ const currentDirName = path.basename(process.cwd())
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base   : `/${currentDirName}/`, // 使用当前目录名称作为 base 路径
+    base   : `/gazingEye/${currentDirName}/`, // 使用当前目录名称作为 base 路径
     plugins: [vue()],
     resolve: {
         alias: {
